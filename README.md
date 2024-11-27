@@ -14,4 +14,7 @@
    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=5B2B9D"/>
    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=55309C"/>
    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&color=4E359B"/>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&color=6144bb"/>
+    <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white&color=6144bb"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=5E40BA"/>
 </div>
